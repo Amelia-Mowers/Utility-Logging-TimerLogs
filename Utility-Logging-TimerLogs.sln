@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1FC2A1B9-6A03-446A-8834-5C1C621654A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerLogs", "src\TimerLogs\TimerLogs.csproj", "{899A6677-290B-48EF-95BC-17AD7FA7E169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{899A6677-290B-48EF-95BC-17AD7FA7E169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899A6677-290B-48EF-95BC-17AD7FA7E169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899A6677-290B-48EF-95BC-17AD7FA7E169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899A6677-290B-48EF-95BC-17AD7FA7E169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{899A6677-290B-48EF-95BC-17AD7FA7E169} = {1FC2A1B9-6A03-446A-8834-5C1C621654A0}
+	EndGlobalSection
+EndGlobal
